@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+sqlalchemy==1.4.53
+python-jose[cryptography]
+passlib[bcrypt]
+python-multipart
+pydantic
+python-dotenv
